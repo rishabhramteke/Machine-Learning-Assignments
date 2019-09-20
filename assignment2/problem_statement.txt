@@ -1,0 +1,9 @@
+you need to implement SVM for credit-card fraud...There is a kaggle competition for the same..
+
+
+
+https://www.kaggle.com/pierra/credit-card-dataset-svm-classification
+
+
+
+Use this data..And only use the built-in function for convex optimization.
